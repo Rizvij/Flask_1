@@ -9,7 +9,7 @@ app=Flask(__name__)
 
 
 def home():
-    return "Junaid loves sameera"
+    return "our first flask app"
 
 
 if __name__=="__main__":
